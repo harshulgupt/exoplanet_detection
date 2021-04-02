@@ -19,7 +19,7 @@ This study analyzes **global temperature anomalies** and **exoplanet detection r
 ---
 
 ## **Technologies & Libraries Used**  
-- **Programming Language:** Python 🐍  
+- **Programming Language:** Python  
 - **Libraries:**  
   - 📊 `pandas` (Data Processing)  
   - 📈 `matplotlib` & `seaborn` (Visualization)  
@@ -37,5 +37,3 @@ This study analyzes **global temperature anomalies** and **exoplanet detection r
   - **Polynomial Regression Fit** to detect warming trends.  
 - **Visualization:**  
   - 📈 **Temperature Trends Over Time**  
-
-
